@@ -1,3 +1,9 @@
+* {
+     background-image: url("X-mes.gif");
+}
+
+
+
 .container {
 	border-style: groove;
 	padding: 10px 10px 50px 50px;
